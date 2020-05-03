@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2037f3c4b31ad3845b38f1d8c984713f, type: 3}
+  m_Name: Sorcerer
+  m_EditorClassIdentifier: 
+  CardName: Sourcerer
+  cost: 5
+  image: {fileID: 21300000, guid: 1c6b951a5c1f29144a37f4716543fa37, type: 3}
+  targets: 2
+  prefab:
+  - {fileID: 4920056056045180061, guid: bfb8c6529a420cd489bfc6acffcc1be4, type: 3}
+  spellCard: {fileID: 0}
+  attackSound: {fileID: 8300000, guid: bc7067db55714dc4d864a7dc22503435, type: 3}
+  hp: 696
+  damage: 111
+  hitSpeed: 1.1
+  speed: 60
+  range: 6
+  type: 1
+  isAreaDamage: 1
+  A_bulletRange: 2.5
+  DamageOnDeath: 0

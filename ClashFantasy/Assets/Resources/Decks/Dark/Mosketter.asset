@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2037f3c4b31ad3845b38f1d8c984713f, type: 3}
+  m_Name: Mosketter
+  m_EditorClassIdentifier: 
+  CardName: Musketter
+  cost: 4
+  image: {fileID: 21300000, guid: 0287b87be8ed02d40a65df3e67f6f8bd, type: 3}
+  targets: 2
+  prefab:
+  - {fileID: 7408065678076564371, guid: f7e755b3129b82f4ebc0059eaf97acba, type: 3}
+  spellCard: {fileID: 0}
+  attackSound: {fileID: 8300000, guid: 899d40bdabb7b174c9afc9a97d886a45, type: 3}
+  hp: 598
+  damage: 181
+  hitSpeed: 1.1
+  speed: 60
+  range: 7
+  type: 1
+  isAreaDamage: 0
+  A_bulletRange: 2.5
+  DamageOnDeath: 0

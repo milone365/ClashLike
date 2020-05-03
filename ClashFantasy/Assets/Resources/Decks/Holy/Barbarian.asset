@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2037f3c4b31ad3845b38f1d8c984713f, type: 3}
+  m_Name: Barbarian
+  m_EditorClassIdentifier: 
+  CardName: Barbarian
+  cost: 5
+  image: {fileID: 21300000, guid: 710e19afcd0536f49b4da695f5a318db, type: 3}
+  targets: 1
+  prefab:
+  - {fileID: 3530576936367128706, guid: 494f9ca6b0771b24fb9788dfa9a2a59f, type: 3}
+  - {fileID: 3530576936367128706, guid: 494f9ca6b0771b24fb9788dfa9a2a59f, type: 3}
+  - {fileID: 3530576936367128706, guid: 494f9ca6b0771b24fb9788dfa9a2a59f, type: 3}
+  - {fileID: 3530576936367128706, guid: 494f9ca6b0771b24fb9788dfa9a2a59f, type: 3}
+  - {fileID: 3530576936367128706, guid: 494f9ca6b0771b24fb9788dfa9a2a59f, type: 3}
+  spellCard: {fileID: 0}
+  attackSound: {fileID: 8300000, guid: 029f23963b3bfec45b8da32789c439b6, type: 3}
+  hp: 555
+  damage: 159
+  hitSpeed: 1.4
+  speed: 60
+  range: 2.3
+  type: 1
+  isAreaDamage: 0
+  A_bulletRange: 2.5
+  DamageOnDeath: 0

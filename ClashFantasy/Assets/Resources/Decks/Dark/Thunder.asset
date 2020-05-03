@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64f9e09c965a824d961acf2d343ce23, type: 3}
+  m_Name: Thunder
+  m_EditorClassIdentifier: 
+  CardName: Thunder
+  cost: 2
+  image: {fileID: 21300000, guid: 01d413389b8168a4d9d59e897b5e0e06, type: 3}
+  targets: 2
+  prefab:
+  - {fileID: 4816726023614510627, guid: 0d204b33ef61f5541b3ac8f6a76c5acc, type: 3}
+  spellCard: {fileID: 11400000}
+  areaDamage: 200
+  crownTowerDamage: 100
+  radius: 2.5

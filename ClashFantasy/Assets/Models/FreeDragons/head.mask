@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: head
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: DragonMesh
+    m_Weight: 1
+  - m_Path: Root
+    m_Weight: 1
+  - m_Path: Root/Spine1
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3/Neck4
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3/Neck4/Head
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3/Neck4/Head/Jaw1
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3/Neck4/Head/Jaw1/Jaw2
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3/Neck4/Head/Jaw1/Jaw2/Jaw3
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3/Neck4/Head/UpperHead1
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/Neck1/Neck2/Neck3/Neck4/Head/UpperHead1/UpperHead2
+    m_Weight: 1
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L/LowerArm_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L/LowerArm_L/Hand_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L/LowerArm_L/Hand_L/Finger1_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L/LowerArm_L/Hand_L/Finger1_L/Finger2_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L1/LowerArm_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L1/LowerArm_L 1/Hand_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L1/LowerArm_L 1/Hand_L 1/Finger1_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Chest/UpperArm_L1/LowerArm_L 1/Hand_L 1/Finger1_L 1/Finger2_L
+      1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail1_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail1_L/WingDetail2_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail1_L/WingDetail2_L/WingDetail3_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail1_L/WingDetail2_L/WingDetail3_L/WingDetail4_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail5_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail5_L/WingDetail6_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail5_L/WingDetail6_L/WingDetail7_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail5_L/WingDetail6_L/WingDetail7_L/WingDetail8_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail9_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail9_L/WingDetail10_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/Wing4_L/WingDetail9_L/WingDetail10_L/WingDetail11_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/WingClaw1_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/WingClaw1_L/WingClaw2_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/WingClaw3_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/Wing3_L/WingClaw3_L/WingClaw4_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/WingDetail12_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L/Wing2_L/WingDetail12_L/WingDetail13_L
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail1_L
+      1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail1_L
+      1/WingDetail2_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail1_L
+      1/WingDetail2_L 1/WingDetail3_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail1_L
+      1/WingDetail2_L 1/WingDetail3_L 1/WingDetail4_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail5_L
+      1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail5_L
+      1/WingDetail6_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail5_L
+      1/WingDetail6_L 1/WingDetail7_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail5_L
+      1/WingDetail6_L 1/WingDetail7_L 1/WingDetail8_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail9_L
+      1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail9_L
+      1/WingDetail10_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/Wing4_L 1/WingDetail9_L
+      1/WingDetail10_L 1/WingDetail11_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/WingClaw1_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/WingClaw1_L 1/WingClaw2_L
+      1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/WingClaw3_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/Wing3_L 1/WingClaw3_L 1/WingClaw4_L
+      1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/WingDetail12_L 1
+    m_Weight: 0
+  - m_Path: Root/Spine1/Spine2/Wing1_L1/Wing2_L 1/WingDetail12_L 1/WingDetail13_L
+      1
+    m_Weight: 0
+  - m_Path: Root/Tail1
+    m_Weight: 0
+  - m_Path: Root/Tail1/Tail2
+    m_Weight: 0
+  - m_Path: Root/Tail1/Tail2/Tail3
+    m_Weight: 0
+  - m_Path: Root/Tail1/Tail2/Tail3/Tail4
+    m_Weight: 0
+  - m_Path: Root/Tail1/Tail2/Tail3/Tail4/Tail5
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L/LowerLeg_L
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L/LowerLeg_L/LowerLeg2_L
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L/LowerLeg_L/LowerLeg2_L/Feet_L
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L/LowerLeg_L/LowerLeg2_L/Feet_L/Toe1_L
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L/LowerLeg_L/LowerLeg2_L/Feet_L/Toe1_L/Toe2_L
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L1
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L1/LowerLeg_L 1
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L1/LowerLeg_L 1/LowerLeg2_L 1
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L1/LowerLeg_L 1/LowerLeg2_L 1/Feet_L 1
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L1/LowerLeg_L 1/LowerLeg2_L 1/Feet_L 1/Toe1_L 1
+    m_Weight: 0
+  - m_Path: Root/UpperLeg_L1/LowerLeg_L 1/LowerLeg2_L 1/Feet_L 1/Toe1_L 1/Toe2_L 1
+    m_Weight: 0

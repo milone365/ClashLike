@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76dfe1f99a9e5ae4cb85df1a5c373b2b, type: 3}
+  m_Name: Cemetery
+  m_EditorClassIdentifier: 
+  CardName: Cemetery
+  cost: 3
+  image: {fileID: 21300000, guid: 39c0bcebf9800024c804a4886f0a7e5d, type: 3}
+  targets: 1
+  prefab:
+  - {fileID: 987426280491543405, guid: 6a396cab0fa70e44d8bb816073f4afdf, type: 3}
+  spellCard: {fileID: 0}
+  hp: 422
+  lifeTime: 40
+  spawnTime: 3
+  bullet: {fileID: 0}
+  DamageOnDeath: 0

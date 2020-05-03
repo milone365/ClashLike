@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 15aed80292b3d9b468640f4a09a86e69
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: mWisson_week_12_SkullKnight_01_for_rig:Head
+    100006: mWisson_week_12_SkullKnight_01_for_rig:HeadTop_End
+    100008: mWisson_week_12_SkullKnight_01_for_rig:Hips
+    100010: mWisson_week_12_SkullKnight_01_for_rig:LeftArm
+    100012: mWisson_week_12_SkullKnight_01_for_rig:LeftFoot
+    100014: mWisson_week_12_SkullKnight_01_for_rig:LeftForeArm
+    100016: mWisson_week_12_SkullKnight_01_for_rig:LeftHand
+    100018: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex1
+    100020: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex2
+    100022: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex3
+    100024: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex4
+    100026: mWisson_week_12_SkullKnight_01_for_rig:LeftLeg
+    100028: mWisson_week_12_SkullKnight_01_for_rig:LeftShoulder
+    100030: mWisson_week_12_SkullKnight_01_for_rig:LeftToe_End
+    100032: mWisson_week_12_SkullKnight_01_for_rig:LeftToeBase
+    100034: mWisson_week_12_SkullKnight_01_for_rig:LeftUpLeg
+    100036: mWisson_week_12_SkullKnight_01_for_rig:Neck
+    100038: mWisson_week_12_SkullKnight_01_for_rig:Object003
+    100040: mWisson_week_12_SkullKnight_01_for_rig:RightArm
+    100042: mWisson_week_12_SkullKnight_01_for_rig:RightFoot
+    100044: mWisson_week_12_SkullKnight_01_for_rig:RightForeArm
+    100046: mWisson_week_12_SkullKnight_01_for_rig:RightHand
+    100048: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex1
+    100050: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex2
+    100052: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex3
+    100054: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex4
+    100056: mWisson_week_12_SkullKnight_01_for_rig:RightLeg
+    100058: mWisson_week_12_SkullKnight_01_for_rig:RightShoulder
+    100060: mWisson_week_12_SkullKnight_01_for_rig:RightToe_End
+    100062: mWisson_week_12_SkullKnight_01_for_rig:RightToeBase
+    100064: mWisson_week_12_SkullKnight_01_for_rig:RightUpLeg
+    100066: mWisson_week_12_SkullKnight_01_for_rig:Spine
+    100068: mWisson_week_12_SkullKnight_01_for_rig:Spine1
+    100070: mWisson_week_12_SkullKnight_01_for_rig:Spine2
+    100072: //RootNode
+    400000: Camera
+    400002: Lamp
+    400004: mWisson_week_12_SkullKnight_01_for_rig:Head
+    400006: mWisson_week_12_SkullKnight_01_for_rig:HeadTop_End
+    400008: mWisson_week_12_SkullKnight_01_for_rig:Hips
+    400010: mWisson_week_12_SkullKnight_01_for_rig:LeftArm
+    400012: mWisson_week_12_SkullKnight_01_for_rig:LeftFoot
+    400014: mWisson_week_12_SkullKnight_01_for_rig:LeftForeArm
+    400016: mWisson_week_12_SkullKnight_01_for_rig:LeftHand
+    400018: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex1
+    400020: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex2
+    400022: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex3
+    400024: mWisson_week_12_SkullKnight_01_for_rig:LeftHandIndex4
+    400026: mWisson_week_12_SkullKnight_01_for_rig:LeftLeg
+    400028: mWisson_week_12_SkullKnight_01_for_rig:LeftShoulder
+    400030: mWisson_week_12_SkullKnight_01_for_rig:LeftToe_End
+    400032: mWisson_week_12_SkullKnight_01_for_rig:LeftToeBase
+    400034: mWisson_week_12_SkullKnight_01_for_rig:LeftUpLeg
+    400036: mWisson_week_12_SkullKnight_01_for_rig:Neck
+    400038: mWisson_week_12_SkullKnight_01_for_rig:Object003
+    400040: mWisson_week_12_SkullKnight_01_for_rig:RightArm
+    400042: mWisson_week_12_SkullKnight_01_for_rig:RightFoot
+    400044: mWisson_week_12_SkullKnight_01_for_rig:RightForeArm
+    400046: mWisson_week_12_SkullKnight_01_for_rig:RightHand
+    400048: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex1
+    400050: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex2
+    400052: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex3
+    400054: mWisson_week_12_SkullKnight_01_for_rig:RightHandIndex4
+    400056: mWisson_week_12_SkullKnight_01_for_rig:RightLeg
+    400058: mWisson_week_12_SkullKnight_01_for_rig:RightShoulder
+    400060: mWisson_week_12_SkullKnight_01_for_rig:RightToe_End
+    400062: mWisson_week_12_SkullKnight_01_for_rig:RightToeBase
+    400064: mWisson_week_12_SkullKnight_01_for_rig:RightUpLeg
+    400066: mWisson_week_12_SkullKnight_01_for_rig:Spine
+    400068: mWisson_week_12_SkullKnight_01_for_rig:Spine1
+    400070: mWisson_week_12_SkullKnight_01_for_rig:Spine2
+    400072: //RootNode
+    2000000: Camera
+    2100000: 01 - Default
+    4300000: mWisson_week_12_SkullKnight_01_for_rig:Object003
+    7400000: ms_idle
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: mWisson_week_12_SkullKnight_01_for_rig:Object003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ms_idle
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

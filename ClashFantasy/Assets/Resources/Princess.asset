@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2037f3c4b31ad3845b38f1d8c984713f, type: 3}
+  m_Name: Princess
+  m_EditorClassIdentifier: 
+  CardName: Princess
+  cost: 3
+  image: {fileID: 21300000, guid: b935f86b64d0ebc439f43cf1e6e3efe1, type: 3}
+  targets: 000000000100000002000000
+  prefab: {fileID: 40650276038155090, guid: 6ba7b01b5475420489d51d557e45a1a3, type: 3}
+  hp: 252
+  damage: 89
+  hitSpeed: 1.2
+  speed: 60
+  deployTime: 1
+  range: 5
+  type: 1
+  isAreaDamage: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2037f3c4b31ad3845b38f1d8c984713f, type: 3}
+  m_Name: SkeletonGiant
+  m_EditorClassIdentifier: 
+  CardName: GiantSkeleton
+  cost: 6
+  image: {fileID: 21300000, guid: 796fc1d346b84c7408713e83919d366d, type: 3}
+  targets: 1
+  prefab:
+  - {fileID: 3203362181040741263, guid: f7e4ec9bb8f283e4e8b5ead43dcfd3ae, type: 3}
+  spellCard: {fileID: 0}
+  attackSound: {fileID: 8300000, guid: 0fb252f72fe55d444b781148b8d841ba, type: 3}
+  hp: 2793
+  damage: 172
+  hitSpeed: 1.5
+  speed: 60
+  range: 2.8
+  type: 1
+  isAreaDamage: 0
+  A_bulletRange: 2.5
+  DamageOnDeath: 957

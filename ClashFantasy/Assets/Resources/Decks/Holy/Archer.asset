@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2037f3c4b31ad3845b38f1d8c984713f, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  CardName: Archer
+  cost: 3
+  image: {fileID: 21300000, guid: ca1e78a3c4584784fa5a784d676c96ae, type: 3}
+  targets: 2
+  prefab:
+  - {fileID: 7286230806206510905, guid: 2a8cc3c237fffb547b2863b7579d051a, type: 3}
+  - {fileID: 7286230806206510905, guid: 2a8cc3c237fffb547b2863b7579d051a, type: 3}
+  spellCard: {fileID: 0}
+  attackSound: {fileID: 8300000, guid: 7e9a4b919de114142b88ffc7d8ccaaf8, type: 3}
+  hp: 252
+  damage: 89
+  hitSpeed: 1.2
+  speed: 60
+  range: 6
+  type: 1
+  isAreaDamage: 0
+  A_bulletRange: 2.5
+  DamageOnDeath: 0
